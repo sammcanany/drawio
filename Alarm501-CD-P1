@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T00:03:24.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8bH6TVOkcUIV633T1g62" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T04:57:40.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="X1F0Uo7AIj7fZhcj2rw1" version="20.3.6" type="github">
   <diagram id="27wC6-QICyfLPVTQP8_r" name="Page-1">
-    <mxGraphModel dx="1597" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="ROn-ooLFBVT5Jz4t26IQ-12" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ROn-ooLFBVT5Jz4t26IQ-14" value="Here are the subassemblies:&lt;br&gt;&lt;br&gt;The coupling ratio is:&lt;br&gt;&lt;br&gt;C(naive) = ?/4 = ?" style="html=1;whiteSpace=wrap;shape=note;size=15;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;align=left;" vertex="1" parent="1">
+        <mxCell id="ROn-ooLFBVT5Jz4t26IQ-14" value="&lt;br&gt;The coupling ratio is:&lt;br&gt;&lt;br&gt;C(P1) = 4/4 = 1" style="html=1;whiteSpace=wrap;shape=note;size=15;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;align=left;" vertex="1" parent="1">
           <mxGeometry x="800" y="430" width="240" height="264" as="geometry" />
         </mxCell>
       </root>
